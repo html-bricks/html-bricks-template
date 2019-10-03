@@ -18,6 +18,6 @@
     "serve": "^11.2.0"
   },
   "dependencies": {
-    "html-bricks": "^0.1.0"
+    "html-bricks": "^0.1.2"
   }
 }
