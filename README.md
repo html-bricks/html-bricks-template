@@ -1,6 +1,6 @@
 # html-bricks-template
 
-Take a look at [html-bricks](https://github.com/gustavgb/html-bricks) for more info.
+Take a look at [html-bricks](https://github.com/html-bricks/html-bricks) for more info.
 
 ## Develop
 
